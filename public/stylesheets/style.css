@@ -372,6 +372,8 @@ p a:hover {
 	color: #b6d8cf;
 	font-size: 12px;
 	line-height: 30px;
+	position: absolute;
+	left: 250px;
 }
 #footer div#connect {
 	float: right;
